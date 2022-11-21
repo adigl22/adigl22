@@ -5,8 +5,7 @@
 </a>
 
 ## I'm a Developer!!
-<!-- ![coding-freak](https://user-images.githubusercontent.com/51362126/129250896-d947e95b-5820-4425-8be2-0001173083fe.gif) -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/51362126/129250896-d947e95b-5820-4425-8be2-0001173083fe.gif">
+
 - 🌱 I’m currently learning everything 🤣
 
 - ⚡ Hobbie: I love to sing and play guitar 
