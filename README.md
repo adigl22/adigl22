@@ -16,8 +16,6 @@
 
 
 
-### Languages and Tools:
-
 <a href="https://dev.to/whyadiwhy">
   <i class="fab fa-dev" title="whyadiwhy's DEV Profile"></i>
 </a>
